@@ -12,6 +12,7 @@ Biblioteket har en uppsättning funktioner som kan hämta information om Pokémo
 
 I de olika funktionerna så kommer ni alltid landa i att ni får tillbaka ett JSON-objekt. Om ni har t.ex. sökt på 'bulbasaur' så kommer ni få följande objekt:
 ![JSON Exempel](/images/json_example.png)
+
 För att få ut en bild (sprite) så skriver ni följande:
 
 `response.sprites.front_default`
