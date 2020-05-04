@@ -1,6 +1,6 @@
 const P = new Pokedex.Pokedex();
 
-P.getPokemonByName("bulbasaur")
+P.getPokemonByName("59")
   .then(res => {
     //om det blir rätt körs denna kod:
     console.log(res);
